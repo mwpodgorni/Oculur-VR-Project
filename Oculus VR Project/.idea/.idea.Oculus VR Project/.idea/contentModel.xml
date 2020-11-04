@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\mwpodgorni\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\mwpodgorni\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Oculus VR Project.-1307244057.00" t="ExcludeRecursive" />
+    <e p="C:\Users\mwpodgorni\Desktop\SEM7\MIX - Mixed Reality\Oculus VR Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Climber.cs" t="Include" />
+          <e p="ClimbInteractable.cs" t="Include" />
+          <e p="ContinousMovement.cs" t="Include" />
+          <e p="Gun.cs" t="Include" />
+          <e p="HandPresence.cs" t="Include" />
+          <e p="LocomotionController.cs" t="Include" />
+          <e p="SimpleCameraController.cs" t="Include" />
+        </e>
+        <e p="Sketchfab For Unity" t="Include">
+          <e p="Dependencies" t="Include">
+            <e p="Shaders" t="Include">
+              <e p="GLTFBumpToNormal.shader" t="Include" />
+              <e p="GLTFColorSpace.cginc" t="Include" />
+              <e p="GLTFFlipTexture.shader" t="Include" />
+              <e p="GLTFLinear2sRGB.shader" t="Include" />
+              <e p="GLTFPackOccMetalRough.shader" t="Include" />
+            </e>
+          </e>
+          <e p="Scripts" t="Include">
+            <e p="AssetBrowser" t="Include">
+              <e p="SketchfabBrowserManager.cs" t="Include" />
+              <e p="SketchfabBrowserWindow.cs" t="Include" />
+              <e p="SketchfabModelWindow.cs" t="Include" />
+            </e>
+            <e p="Resizer.cs" t="Include" />
+            <e p="SketchfabApi.cs" t="Include" />
+            <e p="SketchfabExporter.cs" t="Include" />
+            <e p="SketchfabImporter.cs" t="Include" />
+            <e p="SketchfabImporterWindow.cs" t="Include" />
+            <e p="SketchfabLogger.cs" t="Include" />
+            <e p="SketchfabPlugin.cs" t="Include" />
+            <e p="SketchfabUI.cs" t="Include" />
+          </e>
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Fonts" t="Include">
+            <e p="LiberationSans - OFL.txt" t="Include" />
+          </e>
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+          </e>
+          <e p="Shaders" t="Include">
+            <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+            <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+            <e p="TMP_Bitmap.shader" t="Include" />
+            <e p="TMP_SDF Overlay.shader" t="Include" />
+            <e p="TMP_SDF SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+            <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+            <e p="TMP_SDF-Mobile SSD.shader" t="Include" />
+            <e p="TMP_SDF-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+            <e p="TMP_SDF-Surface.shader" t="Include" />
+            <e p="TMP_SDF.shader" t="Include" />
+            <e p="TMP_Sprite.shader" t="Include" />
+            <e p="TMPro.cginc" t="Include" />
+            <e p="TMPro_Mobile.cginc" t="Include" />
+            <e p="TMPro_Properties.cginc" t="Include" />
+            <e p="TMPro_Surface.cginc" t="Include" />
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialInfo" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Editor" t="Include">
+              <e p="ReadmeEditor.cs" t="Include" />
+            </e>
+            <e p="Readme.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Oculus VR Project.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
